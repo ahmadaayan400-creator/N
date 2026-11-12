@@ -3014,6 +3014,8 @@ end
 --==================================================
 -- P11 : VOIDOUT
 --==================================================
+btn("MULTI FLING 👺", P11, function() loadstring(game:HttpGet("https://pastefy.app/QmuTt7Rf/raw"))() end)
+
 btn("FAKEOUT 1 🌚", P11, function() loadstring(game:HttpGet("https://pastebin.com/raw/67KEqzjv"))() end)
 
 btn("FAKEOUT 2 🗿", P11, function() loadstring(game:HttpGet("https://pastebin.com/raw/meJYGz4a"))() end)
@@ -3066,6 +3068,13 @@ btn("🎵 DJ PLAYER",P7,function()
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadaayan400-creator/Music-/refs/heads/main/Aayan_Music_System.lua"))()end)
 
 
+btn("AAYAN BANG (JERK💦)",P6, function() 
+	
+		
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadaayan400-creator/AAYAN-BANG-/refs/heads/main/deobfuscated.lua%20(17).txt"))() end)
+
+
+
 btn("BACK BANG 🍑",P6,function()
 local message = "SCRIPT BY " .. playerName
     .. " -----[ BACK BANG ]----- "
@@ -3106,6 +3115,10 @@ if channel then
 		end
 		
 loadstring(game:HttpGet("https://pastefy.app/cVCW0R18/raw"))()end)
+
+
+btn("TXR BANG", P6, function() loadstring(game:HttpGet("https://raw.githubusercontent.com/yelelode/UNO/refs/heads/main/Source.lua2"))() end)
+
 
 btn("BANGER 1💀", P6, function() 
 local message = "SCRIPT BY " .. playerName
@@ -3223,6 +3236,8 @@ if channel then
 		
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadaayan400-creator/MUSIC-BANG-/refs/heads/main/gistfile1%20(1).txt"))() end)
 
+
+btn("FE TROLL 🌚", P6, function() loadstring(game:HttpGet("https://raw.githubusercontent.com/3LD4D0/FE-TROLLING-PLAYER-R6-R15/6eff8792afed57458d5114478b453a6f6bce5799/Fe%20trolling%20Player%20R6%20AND%20R15"))() end)
 
 
 btn("BANGER 4 🔥💢", P6, function() 
